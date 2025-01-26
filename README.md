@@ -6,4 +6,4 @@ this is another new line from Adrian
 
 this line is created on January 25, 2025 by Adrian
 
-this line is created on January 25, 2025 by Mikhail on Github (local repository)
+this line is created on January 25, 2025 by Mikhail on Github (remote repository)
